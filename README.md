@@ -1,6 +1,6 @@
 # Nigerian-Used-Car-Market-Analysis-SQL-Project-
 
-# Nigerian Used-Car Market Price Analysis (SQL Project)
+
 
 ## Introduction
 Nigeria's used-car market is large, fast-moving, and highly informal, with prices shaped by brand reputation, import condition, age, mileage, and buyer purchasing power. For most buyers and small dealers, understanding "fair value" means comparing a listing against dozens of similar ones by eye — a slow and error-prone process.
@@ -109,6 +109,6 @@ Nearly half the market (49.3%) falls into the Mid-Range segment.
 6. **For further analysis:** extend this SQL project with year-over-year trend queries or a join against a brand country-of-origin/import-duty reference table to explain price gaps in terms of cost structure rather than brand prestige alone.
 
 ## Conclusions
-This project turned a raw, inconsistently formatted CSV of 4,095 Nigerian car listings into a clean SQL table and answered 15 practical business questions using beginner-friendly, heavily commented SQL. The analysis confirms that **condition, car age, and mileage** are the dominant, intuitive drivers of price, that Toyota's market dominance is driven by both volume and mid-range affordability, and that the market is heavily concentrated in the Mid-Range price segment.
+This project turned a raw, inconsistently formatted CSV of 4,095 Nigerian car listings into a clean SQL table and answered 15 practical business questions. The analysis confirms that **condition, car age, and mileage** are the dominant, intuitive drivers of price, that Toyota's market dominance is driven by both volume and mid-range affordability, and that the market is heavily concentrated in the Mid-Range price segment.
 
-Beyond the specific findings, the accompanying `.sql` script is itself a learning resource: it demonstrates real-world SQL data cleaning (`REPLACE`, `CAST`, `COALESCE`, `CASE WHEN` for outlier handling) alongside a full suite of beginner analytical patterns (`GROUP BY`, `HAVING`, `ORDER BY`, `LIMIT`, subqueries, multi-condition filtering) — all applied to a single, realistic Nigerian dataset from start to finish.
+

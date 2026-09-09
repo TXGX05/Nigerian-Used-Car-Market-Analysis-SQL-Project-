@@ -2,7 +2,7 @@
 
 
 
-# Nigerian-Used-Car-Market-Analysis-SQL-Project-
+
 
 ## Introduction
 Nigeria's used car market is large, fast moving, and highly informal, with prices shaped by brand reputation, import condition, age, mileage, and buyer purchasing power. For most buyers and small dealers, understanding "fair value" means comparing a listing against dozens of similar ones by eye, a slow and error prone process.
